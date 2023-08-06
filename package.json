@@ -4,6 +4,8 @@
   "description": "this is the server side of easy-form client app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sany",
